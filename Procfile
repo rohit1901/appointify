@@ -1,1 +1,0 @@
-web: java -jar target/appointify-0.0.1-SNAPSHOT.jar
