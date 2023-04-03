@@ -1,3 +1,14 @@
+## Folders
 /.bsp/
 /.idea/
 /target/
+/project/
+/secrets/
+
+## Individual files
+.DS_Store
+
+## All files matching extension
+*.iml
+
+
