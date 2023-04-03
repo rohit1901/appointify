@@ -1,0 +1,2 @@
+# appointify
+A MongoDB schema
