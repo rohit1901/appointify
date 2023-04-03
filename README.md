@@ -1,4 +1,4 @@
-# Appointify - Calendar Application Project Description
+# Appointify - Calendar Application
 
 This project is a calendar application with a Java Spring Boot backend and a React frontend. The application allows users to block specific dates for certain tasks and sends out emails to all users about calendar events.
 
