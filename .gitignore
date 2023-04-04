@@ -3,7 +3,6 @@
 /.idea/
 /target/
 /project/
-/secrets/
 
 ## Individual files
 .DS_Store
