@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Doppler with Spring Boot " type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="doppler run --mount ./src/main/resources/application.properties --mount-template ./secrets/.app.props.config.tmpl --command=&quot;java -jar target/appointify-0.0.1-SNAPSHOT.jar&quot; " />
+    <option name="SCRIPT_TEXT" value="doppler run --mount application.properties --mount-template ./secrets/app.props.config.tmpl --command=&quot;java -jar target/appointify-0.0.1-SNAPSHOT.jar&quot; " />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
