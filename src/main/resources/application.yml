@@ -1,5 +1,5 @@
 spring:
-  profile:
+  profiles:
     active: ${ACTIVE_PROFILE}
   datasource:
     url: ${SPRING_DATASOURCE_URL}
