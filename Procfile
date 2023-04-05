@@ -1,1 +1,1 @@
-web: -Dserver.port=$PORT -Dspring.profiles.active=production $JAVA_OPTS -jar target/appointify-0.0.1-SNAPSHOT.jar
+web: -Dserver.port=$PORT -Dspring.profiles.active=production java -jar target/appointify-0.0.1-SNAPSHOT.jar
