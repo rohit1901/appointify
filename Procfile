@@ -1,1 +1,1 @@
-web: -Dserver.port=$PORT -Dspring.profiles.active=$ACTIVE_PROFILE java -jar target/appointify-0.0.1-SNAPSHOT.jar
+web: -Dserver.port=$PORT -Dspring.profiles.active=$ACTIVE_PROFILE mvn clean install spring-boot:run
